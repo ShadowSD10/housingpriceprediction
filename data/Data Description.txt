@@ -1,0 +1,35 @@
+price: The price of the property.
+
+Address: The address/location of the property.
+
+area: The area (size) of the property.
+
+latitude: The latitude coordinate of the property location.
+
+longitude: The longitude coordinate of the property location.
+
+Bedrooms: The number of bedrooms in the property.
+
+Bathrooms: The number of bathrooms in the property.
+
+Balcony: The number of balconies in the property.
+
+Status: The status of the property (e.g., available, sold, etc.).
+
+neworold: Indicates whether the property is new or old.
+
+parking: The number of parking spaces available with the property.
+
+Furnished_status: Indicates the furnished status of the property (e.g., furnished, unfurnished, etc.).
+
+Lift: Indicates whether the property has a lift or not.
+
+Landmarks: Any notable landmarks or features near the property.
+
+type_of_building: The type of building (e.g., apartment, villa, etc.).
+
+desc: Description of the property.
+
+Price_sqft: The price per square foot of the property.
+
+kitchen: The number of kitchens in the property.
